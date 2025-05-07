@@ -1,0 +1,59 @@
+{
+    "profileEdit": {
+      "title": {
+        "EN": "LogIn & Security",
+        "FR": "Connexion & Sécurité"
+      },
+      "editTitle": {
+        "EN": "Edit LogIn & Security",
+        "FR": "Modifier Connexion & Sécurité"
+      },
+      "first_name": {
+        "EN": "First name:",
+        "FR": "Prénom"
+      },
+      "last_name": {
+        "EN": "Last name:",
+        "FR": "Nom de famille:"
+      },
+      "email": {
+        "EN": "Email:",
+        "FR": "Email:"
+      },
+      "password": {
+        "EN": "Password:",
+        "FR": "Mot de passe:"
+      },
+      "address": {
+        "EN": "Address:",
+        "FR": "Adresse:"
+      },
+      "phoneNumber": {
+        "EN": "Phone Number:",
+        "FR": "Numéro de téléphone:"
+      },
+      "modifyButton": {
+        "EN": "Modify",
+        "FR": "Modifier"
+      },
+      "saveButton": {
+        "EN": "Save",
+        "FR": "Enregistrer"
+      },
+      "cancelButton": {
+        "EN": "Cancel",
+        "FR": "Annuler"
+      },
+      "deleteButton": {
+        "EN": "Delete Account",
+        "FR": "Supprimer le compte"
+      },
+
+      "changePasswordButton": {
+        "EN": "Change Password",
+        "FR": "Changer le mot de passe"
+      }
+
+    }
+  }
+  

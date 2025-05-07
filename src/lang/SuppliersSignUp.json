@@ -1,0 +1,49 @@
+{
+    "supplier_signup": {
+      "title": {
+        "EN": "Supplier Sign Up",
+        "FR": "Inscription Fournisseur"
+      },
+      "company_name": {
+        "EN": "Company Name",
+        "FR": "Nom de l'entreprise"
+      },
+      "contact_name": {
+        "EN": "Contact Name",
+        "FR": "Nom du contact"
+      },
+      "email": {
+        "EN": "Email Address",
+        "FR": "Adresse e-mail"
+      },
+      "phone_number": {
+        "EN": "Phone Number",
+        "FR": "Numéro de téléphone"
+      },
+      "address": {
+        "EN": "Address",
+        "FR": "Adresse"
+      },
+      "password": {
+        "EN": "Password",
+        "FR": "Mot de passe"
+      },
+      "confirm_password": {
+        "EN": "Confirm Password",
+        "FR": "Confirmer le mot de passe"
+      },
+      "marketing_opt_in": {
+        "EN": "I want to receive marketing promotions and updates via email.",
+        "FR": "Je souhaite recevoir des promotions et des mises à jour par e-mail."
+      },
+      "sign_up_button": {
+        "EN": "Sign Up",
+        "FR": "S'inscrire"
+      },
+      "already_have_account": {
+        "EN": "Already have an account? Sign in",
+        "FR": "Vous avez déjà un compte? Se connecter"
+      }
+    }
+  }
+  

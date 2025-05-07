@@ -1,0 +1,25 @@
+{
+    "messages": {
+      "title": {
+        "EN": "Messages",
+        "FR": "Messages"
+      },
+      "backToConversations": {
+        "EN": "Back to Conversations",
+        "FR": "Retour aux conversations"
+      },
+      "typeYourMessage": {
+        "EN": "Type your message",
+        "FR": "Tapez votre message"
+      },
+      "send": {
+        "EN": "Send",
+        "FR": "Envoyer"
+      },
+      "selectConversation": {
+        "EN": "Select a conversation to view messages",
+        "FR": "Sélectionnez une conversation pour voir les messages"
+      }
+    }
+  }
+  

@@ -1,0 +1,37 @@
+{
+    "paymentInfo": {
+      "title": {
+        "EN": "Payment Methods",
+        "FR": "Méthodes de Paiement"
+      },
+      "editTitle": {
+        "EN": "Edit Payment Methods",
+        "FR": "Modifier Méthodes de Paiement"
+      },
+      "cardNumber": {
+        "EN": "Card Number:",
+        "FR": "Numéro de Carte:"
+      },
+      "expiryDate": {
+        "EN": "Expiry Date:",
+        "FR": "Date d'Expiration:"
+      },
+      "cvv": {
+        "EN": "CVV",
+        "FR": "CVV"
+      },
+      "modifyButton": {
+        "EN": "Modify",
+        "FR": "Modifier"
+      },
+      "saveButton": {
+        "EN": "Save",
+        "FR": "Enregistrer"
+      },
+      "cancelButton": {
+        "EN": "Cancel",
+        "FR": "Annuler"
+      }
+    }
+  }
+  

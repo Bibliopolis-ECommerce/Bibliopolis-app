@@ -1,0 +1,15 @@
+{
+    "error_login": {
+      "EN": "Login failed. Please check your email and password.",
+      "FR": "Connexion échouée. Veuillez vérifier votre adresse courriel et votre mot de passe."
+    },
+    "error_created_password": {
+      "EN": "Failed to create password. Please make sure that they are the same.",
+      "FR": "Échec de la création du mot de passe. Veuillez vous assurer qu'ils sont identiques."
+    },
+    "field_required": {
+      "EN": "This field is required.",
+      "FR": "Ce champ est requis."
+    }
+}
+  

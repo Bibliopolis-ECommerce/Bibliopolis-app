@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": {
+      "EN": "Cat",
+      "FR": "Chat"
+    }
+  },
+  {
+    "id": 2,
+    "name": {
+      "EN": "Dog",
+      "FR": "Chien"
+    }
+  },
+  {
+    "id": 3,
+    "name": {
+      "EN": "Bird",
+      "FR": "Oiseau"
+    }
+  },
+  {
+    "id": 4,
+    "name": {
+      "EN": "Other Animal",
+      "FR": "Autre Animal"
+    }
+  }
+]

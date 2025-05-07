@@ -1,0 +1,197 @@
+[
+  {
+    "id": 1,
+    "name": {
+      "EN": "Purina ONE Cat Food",
+      "FR": "Nourriture pour chat Purina ONE"
+    },
+    "category": {
+      "EN": "Cat Food",
+      "FR": "Nourriture pour chat"
+    },
+    "category_id": 1,
+    "description": {
+      "EN": "Purina ONE Cat Food provides all the nutrition your cat needs to stay healthy and happy. With real chicken as the first ingredient, this formula supports strong muscles and a healthy heart.",
+      "FR": "La nourriture pour chat Purina ONE offre toute la nutrition dont votre chat a besoin pour rester en bonne santé et heureux. Avec du vrai poulet comme premier ingrédient, cette formule soutient des muscles forts et un cœur en bonne santé."
+    },
+    "rating": 4,
+    "reviews": 92,
+    "stock": 10,
+    "price": "55.99",
+    "image": "https://s7d2.scene7.com/is/image/PetSmart/5237395?$sclp-prd-main_large$",
+    "image2": "https://www.mondou.com/dw/image/v2/BGPN_PRD/on/demandware.static/-/Sites-mondou_CA-master/default/dwf1961d65/images/1043941-0.jpeg?sw=280&sh=280&sm=fit",
+    "image3": "https://www.mondou.com/dw/image/v2/BGPN_PRD/on/demandware.static/-/Sites-mondou_CA-master/default/dw59ea0a12/images/1028728-0.jpg?sw=280&sh=280&sm=fit",
+    "comments": [
+      {
+        "id": "1",
+        "author": "Steve Tremblay",
+        "date": "February 1, 2023",
+        "content": "Je l'aime bien!",
+        "avatar": "/path/to/avatar.jpg"
+      },
+      {
+        "id": "2",
+        "author": "Marie Dubois",
+        "date": "March 10, 2023",
+        "content": "Très confortable.",
+        "avatar": "/path/to/avatar2.jpg"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": {
+      "EN": "Royal Canin Indoor Adult Food",
+      "FR": "Nourriture pour Canin adulte Royal Canin Indoor"
+    },
+    "category": {
+      "EN": "Cat Food",
+      "FR": "Nourriture pour chat"
+    },
+    "category_id": 1,
+    "description": {
+      "EN": "Royal Canin Indoor Adult Cat Food is specially formulated for indoor cats. It helps reduce hairballs and maintains a healthy weight with a balanced blend of fiber and protein.",
+      "FR": "La nourriture pour chat adulte Royal Canin Indoor est spécialement formulée pour les chats d'intérieur. Elle aide à réduire les boules de poils et à maintenir un poids santé grâce à un mélange équilibré de fibres et de protéines."
+    },
+    "rating": 3,
+    "reviews": 50,
+    "stock": 10,
+    "price": "70.99",
+    "image": "https://www.mondou.com/dw/image/v2/BGPN_PRD/on/demandware.static/-/Sites-mondou_CA-master/default/dwf1961d65/images/1043941-0.jpeg?sw=280&sh=280&sm=fit",
+    "image2": "https://www.mondou.com/dw/image/v2/BGPN_PRD/on/demandware.static/-/Sites-mondou_CA-master/default/dwf1961d65/images/1043941-0.jpeg?sw=280&sh=280&sm=fit",
+    "image3": "https://www.mondou.com/dw/image/v2/BGPN_PRD/on/demandware.static/-/Sites-mondou_CA-master/default/dw59ea0a12/images/1028728-0.jpg?sw=280&sh=280&sm=fit",
+    "comments": [
+      {
+        "id": "1",
+        "author": "Steve Tremblay",
+        "date": "February 1, 2023",
+        "content": "Je l'aime bien!",
+        "avatar": "/path/to/avatar.jpg"
+      },
+      {
+        "id": "2",
+        "author": "Marie Dubois",
+        "date": "March 10, 2023",
+        "content": "Très confortable.",
+        "avatar": "/path/to/avatar2.jpg"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": {
+      "EN": "Hill's Science Diet Adult Cat Food",
+      "FR": "Nourriture pour chat adulte Hill's Science Diet"
+    },
+    "category": {
+      "EN": "Cat Food",
+      "FR": "Nourriture pour chat"
+    },
+    "category_id": 1,
+    "description": {
+      "EN": "Hill's Science Diet Adult Cat Food is made with high-quality ingredients to support your cat's health. It contains antioxidants, vitamins, and minerals to support a healthy immune system.",
+      "FR": "La nourriture pour chat adulte Hill's Science Diet est fabriquée avec des ingrédients de haute qualité pour soutenir la santé de votre chat. Elle contient des antioxydants, des vitamines et des minéraux pour soutenir un système immunitaire sain."
+    },
+    "rating": 4,
+    "reviews": 92,
+    "stock": 10,
+    "price": "83.99",
+    "image": "https://www.mondou.com/dw/image/v2/BGPN_PRD/on/demandware.static/-/Sites-mondou_CA-master/default/dwd03012f9/images/1043746-0.jpg?sw=280&sh=280&sm=fit",
+    "image2": "https://www.mondou.com/dw/image/v2/BGPN_PRD/on/demandware.static/-/Sites-mondou_CA-master/default/dwf1961d65/images/1043941-0.jpeg?sw=280&sh=280&sm=fit",
+    "image3": "https://www.mondou.com/dw/image/v2/BGPN_PRD/on/demandware.static/-/Sites-mondou_CA-master/default/dw59ea0a12/images/1028728-0.jpg?sw=280&sh=280&sm=fit",
+    "comments": [
+      {
+        "id": "1",
+        "author": "Steve Tremblay",
+        "date": "February 1, 2023",
+        "content": "Je l'aime bien!",
+        "avatar": "/path/to/avatar.jpg"
+      },
+      {
+        "id": "2",
+        "author": "Marie Dubois",
+        "date": "March 10, 2023",
+        "content": "Très confortable.",
+        "avatar": "/path/to/avatar2.jpg"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": {
+      "EN": "Blue Buffalo Wilderness Cat Food",
+      "FR": "Nourriture pour chat Blue Buffalo Wilderness"
+    },
+    "category": {
+      "EN": "Cat Food",
+      "FR": "Nourriture pour chat"
+    },
+    "category_id": 1,
+    "description": {
+      "EN": "Blue Buffalo Wilderness Cat Food is a grain-free formula that provides your cat with the high protein diet they crave. It includes real chicken to help build and maintain lean muscle mass.",
+      "FR": "La nourriture pour chat Blue Buffalo Wilderness est une formule sans céréales qui offre à votre chat un régime riche en protéines. Elle contient du vrai poulet pour aider à construire et à maintenir une masse musculaire maigre."
+    },
+    "rating": 4,
+    "reviews": 92,
+    "stock": 10,
+    "price": "85.99",
+    "image": "https://www.mondou.com/dw/image/v2/BGPN_PRD/on/demandware.static/-/Sites-mondou_CA-master/default/dw59ea0a12/images/1028728-0.jpg?sw=280&sh=280&sm=fit",
+    "image2": "https://www.mondou.com/dw/image/v2/BGPN_PRD/on/demandware.static/-/Sites-mondou_CA-master/default/dwf1961d65/images/1043941-0.jpeg?sw=280&sh=280&sm=fit",
+    "image3": "https://www.mondou.com/dw/image/v2/BGPN_PRD/on/demandware.static/-/Sites-mondou_CA-master/default/dw59ea0a12/images/1028728-0.jpg?sw=280&sh=280&sm=fit",
+    "comments": [
+      {
+        "id": "1",
+        "author": "Steve Tremblay",
+        "date": "February 1, 2023",
+        "content": "Je l'aime bien!",
+        "avatar": "/path/to/avatar.jpg"
+      },
+      {
+        "id": "2",
+        "author": "Marie Dubois",
+        "date": "March 10, 2023",
+        "content": "Très confortable.",
+        "avatar": "/path/to/avatar2.jpg"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": {
+      "EN": "Wellness CORE Grain-Free Cat Food",
+      "FR": "Nourriture pour chat sans céréales Wellness CORE"
+    },
+    "category": {
+      "EN": "Cat Food",
+      "FR": "Nourriture pour chat"
+    },
+    "category_id": 1,
+    "description": {
+      "EN": "Wellness CORE Grain-Free Cat Food provides your cat with the nutrition they need to thrive. Made with premium proteins and nutrient-rich vegetables, this formula supports overall health and wellness.",
+      "FR": "La nourriture pour chat sans céréales Wellness CORE offre à votre chat la nutrition dont il a besoin pour prospérer. Fabriquée avec des protéines de qualité supérieure et des légumes riches en nutriments, cette formule soutient la santé et le bien-être général."
+    },
+    "rating": 4,
+    "reviews": 92,
+    "stock": 10,
+    "price": "30.99",
+    "image": "https://www.mondou.com/dw/image/v2/BGPN_PRD/on/demandware.static/-/Sites-mondou_CA-master/default/dwb8897cdf/images/1043970-0.jpg?sw=280&sh=280&sm=fit",
+    "image2": "https://www.mondou.com/dw/image/v2/BGPN_PRD/on/demandware.static/-/Sites-mondou_CA-master/default/dwf1961d65/images/1043941-0.jpeg?sw=280&sh=280&sm=fit",
+    "image3": "https://www.mondou.com/dw/image/v2/BGPN_PRD/on/demandware.static/-/Sites-mondou_CA-master/default/dw59ea0a12/images/1028728-0.jpg?sw=280&sh=280&sm=fit",
+    "comments": [
+      {
+        "id": "1",
+        "author": "Steve Tremblay",
+        "date": "February 1, 2023",
+        "content": "Je l'aime bien!",
+        "avatar": "/path/to/avatar.jpg"
+      },
+      {
+        "id": "2",
+        "author": "Marie Dubois",
+        "date": "March 10, 2023",
+        "content": "Très confortable.",
+        "avatar": "/path/to/avatar2.jpg"
+      }
+    ]
+  }
+]

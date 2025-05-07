@@ -1,0 +1,26 @@
+{
+    "SignIn": {
+      "EN": "Sign in",
+      "FR": "Se connecter"
+    },
+    "EmailAddress": {
+      "EN": "Email Address",
+      "FR": "Adresse Courriel"
+  },
+  "Password": {
+    "EN": "Password",
+    "FR": "Mot de passe"
+},
+"RememberMe": {
+  "EN": "Remember Me",
+  "FR": "Se rappeler de moi"
+},
+"ForgotPwd": {
+  "EN": "Forgot Password?",
+  "FR": "Mot de passe oublié?"
+},
+"NoAccount": {
+  "EN": "Don't have an account? Sign Up",
+  "FR": "Pas de compte? S'inscrire"
+}
+}

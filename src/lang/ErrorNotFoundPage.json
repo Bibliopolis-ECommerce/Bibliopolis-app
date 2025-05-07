@@ -1,0 +1,11 @@
+{
+    "home_page": {
+        "EN": " Go back to the Home Page",
+        "FR": "Retourner à la Page d'accueil"
+    },
+    "error_not_found": {
+      "EN": "The page you are looking for might have been removed, had its name changed, or is temporarily unavailable.",
+      "FR": "La page que vous recherchez a peut-être été supprimée, a changé de nom ou est temporairement indisponible."
+    }
+}
+  

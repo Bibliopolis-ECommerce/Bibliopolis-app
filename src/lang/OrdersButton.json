@@ -1,0 +1,32 @@
+{
+    "orders_button": {
+        "buy-again": {
+            "FR": "Recommander",
+            "EN": "Reorder"
+        },
+        "view-details": {
+            "FR": "Voir les détails",
+            "EN": "View details"
+        },
+        "delivery-status": {
+            "FR": "Statut de la livraison",
+            "EN": "Delivery status"
+        },
+        "total-price": {
+            "FR": "Prix total",
+            "EN": "Total price"
+        },  
+        "delivery-date": {
+            "FR": "Date de livraison",
+            "EN": "Delivery date"
+        },
+        "order-date": {
+            "FR": "Date de commande",
+            "EN": "Order date"
+        },
+        "Quit": {
+            "FR": "Quitter",
+            "EN": "Quit"
+        }
+    }
+}

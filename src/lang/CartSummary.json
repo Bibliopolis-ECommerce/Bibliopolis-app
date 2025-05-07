@@ -1,0 +1,49 @@
+{
+    "cart_summary": {
+      "summary": {
+        "EN": "Summary",
+        "FR": "Résumé"
+      },
+      "shipping": {
+        "EN": "SHIPPING",
+        "FR": "EXPÉDITION"
+      },
+      "promo_code": {
+        "EN": "PROMO CODE",
+        "FR": "CODE PROMO"
+      },
+      "enter_code": {
+        "EN": "Enter your code",
+        "FR": "Entrez votre code"
+      },
+      "subtotal": {
+        "EN": "SUBTOTAL",
+        "FR": "SOUS-TOTAL"
+      },
+      "gst": {
+        "EN": "GST (5%)",
+        "FR": "TPS (5%)"
+      },
+      "qst": {
+        "EN": "QST (9.975%)",
+        "FR": "TVQ (9,975%)"
+      },
+      "total_price": {
+        "EN": "TOTAL PRICE",
+        "FR": "PRIX TOTAL"
+      },
+      "order_button": {
+        "EN": "Order",
+        "FR": "Commander"
+      },
+      "standard": {
+        "EN": "Standard",
+        "FR": "Standard"
+      },
+      "express": {
+        "EN": "Express",
+        "FR": "Express"
+      }
+    }
+  }
+  

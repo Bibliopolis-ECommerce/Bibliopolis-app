@@ -1,0 +1,59 @@
+{
+  "Main_title": {
+    "EN": "Welcome to your account",
+    "FR": "Bienvenue sur votre compte"
+
+  },
+  "cards": [
+    {
+      "title": {
+        "EN": "LogIn, Security & Address",
+        "FR": "Connexion, Sécurité & Adresse"
+      },
+      "description": {
+        "EN": "Update your login information such as email and password, and manage your address details.",
+        "FR": "Mettez à jour vos informations de connexion telles que l'email et le mot de passe, et gérez vos informations d'adresse."
+      }
+    },
+    {
+      "title": {
+        "EN": "Payment Methods",
+        "FR": "Méthodes de Paiement"
+      },
+      "description": {
+        "EN": "Manage your banking information and payment methods.",
+        "FR": "Gérez vos informations bancaires et vos méthodes de paiement."
+      }
+    },
+    {
+      "title": {
+        "EN": "Wishlist",
+        "FR": "Liste de Souhaits"
+      },
+      "description": {
+        "EN": "View and manage your wishlist items.",
+        "FR": "Voir et gérer vos articles de liste de souhaits."
+      }
+    },
+    {
+      "title": {
+        "EN": "Messages",
+        "FR": "Messages"
+      },
+      "description": {
+        "EN": "Send and receive messages.",
+        "FR": "Envoyez et recevez des messages."
+      }
+    },
+    {
+      "title": {
+        "EN": "Orders",
+        "FR": "Commandes"
+      },
+      "description": {
+        "EN": "View your orders history and status.",
+        "FR": "Voir l'historique et le statut de vos commandes."
+      }
+    }
+  ]
+}

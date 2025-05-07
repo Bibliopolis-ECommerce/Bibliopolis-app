@@ -1,0 +1,218 @@
+[
+  {
+    "id": 1,
+    "categoryName": {
+      "EN": "Dog food",
+      "FR": "Nourriture pour chien"
+    },
+    "categoryItems": [
+      {
+        "id": 1,
+        "name": {
+          "EN": "Pet Smart",
+          "FR": "Pet Smart"
+        },
+        "price": "55.99",
+        "image": "https://s7d2.scene7.com/is/image/PetSmart/5237395?$sclp-prd-main_large$"
+      },
+      {
+        "id": 2,
+        "name": {
+          "EN": "Product 2",
+          "FR": "Produit 2"
+        },
+        "price": "70.99",
+        "image": "https://www.mondou.com/dw/image/v2/BGPN_PRD/on/demandware.static/-/Sites-mondou_CA-master/default/dwf1961d65/images/1043941-0.jpeg?sw=280&sh=280&sm=fit"
+      },
+      {
+        "id": 3,
+        "name": {
+          "EN": "Pro Plan",
+          "FR": "Pro Plan"
+        },
+        "price": "83.99",
+        "image": "https://www.mondou.com/dw/image/v2/BGPN_PRD/on/demandware.static/-/Sites-mondou_CA-master/default/dwd03012f9/images/1043746-0.jpg?sw=280&sh=280&sm=fit"
+      },
+      {
+        "id": 4,
+        "name": {
+          "EN": "Vet Diet",
+          "FR": "Vet Diet"
+        },
+        "price": "84.99",
+        "image": "https://www.mondou.com/dw/image/v2/BGPN_PRD/on/demandware.static/-/Sites-mondou_CA-master/default/dw59ea0a12/images/1028728-0.jpg?sw=280&sh=280&sm=fit"
+      },
+      {
+        "id": 5,
+        "name": {
+          "EN": "Pinacle",
+          "FR": "Pinacle"
+        },
+        "price": "30.99",
+        "image": "https://www.mondou.com/dw/image/v2/BGPN_PRD/on/demandware.static/-/Sites-mondou_CA-master/default/dwb8897cdf/images/1043970-0.jpg?sw=280&sh=280&sm=fit"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "categoryName": {
+      "EN": "Cat food",
+      "FR": "Nourriture pour Chat"
+    },
+    "categoryItems": [
+      {
+        "id": 1,
+        "name": {
+          "EN": "Pet Smart",
+          "FR": "Pet Smart"
+        },
+        "price": "55.99",
+        "image": "https://s7d2.scene7.com/is/image/PetSmart/5237395?$sclp-prd-main_large$"
+      },
+      {
+        "id": 2,
+        "name": {
+          "EN": "Product 2",
+          "FR": "Produit 2"
+        },
+        "price": "70.99",
+        "image": "https://www.mondou.com/dw/image/v2/BGPN_PRD/on/demandware.static/-/Sites-mondou_CA-master/default/dwf1961d65/images/1043941-0.jpeg?sw=280&sh=280&sm=fit"
+      },
+      {
+        "id": 3,
+        "name": {
+          "EN": "Pro Plan",
+          "FR": "Pro Plan"
+        },
+        "price": "83.99",
+        "image": "https://www.mondou.com/dw/image/v2/BGPN_PRD/on/demandware.static/-/Sites-mondou_CA-master/default/dwd03012f9/images/1043746-0.jpg?sw=280&sh=280&sm=fit"
+      },
+      {
+        "id": 4,
+        "name": {
+          "EN": "Vet Diet",
+          "FR": "Vet Diet"
+        },
+        "price": "84.99",
+        "image": "https://www.mondou.com/dw/image/v2/BGPN_PRD/on/demandware.static/-/Sites-mondou_CA-master/default/dw59ea0a12/images/1028728-0.jpg?sw=280&sh=280&sm=fit"
+      },
+      {
+        "id": 5,
+        "name": {
+          "EN": "Pinacle",
+          "FR": "Pinacle"
+        },
+        "price": "30.99",
+        "image": "https://www.mondou.com/dw/image/v2/BGPN_PRD/on/demandware.static/-/Sites-mondou_CA-master/default/dwb8897cdf/images/1043970-0.jpg?sw=280&sh=280&sm=fit"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "categoryName": {
+      "EN": "Birds",
+      "FR": "Oiseaux"
+    },
+    "categoryItems": [
+      {
+        "id": 1,
+        "name": {
+          "EN": "Pet Smart",
+          "FR": "Pet Smart"
+        },
+        "price": "55.99",
+        "image": "https://s7d2.scene7.com/is/image/PetSmart/5237395?$sclp-prd-main_large$"
+      },
+      {
+        "id": 2,
+        "name": {
+          "EN": "Product 2",
+          "FR": "Produit 2"
+        },
+        "price": "70.99",
+        "image": "https://www.mondou.com/dw/image/v2/BGPN_PRD/on/demandware.static/-/Sites-mondou_CA-master/default/dwf1961d65/images/1043941-0.jpeg?sw=280&sh=280&sm=fit"
+      },
+      {
+        "id": 3,
+        "name": {
+          "EN": "Pro Plan",
+          "FR": "Pro Plan"
+        },
+        "price": "83.99",
+        "image": "https://www.mondou.com/dw/image/v2/BGPN_PRD/on/demandware.static/-/Sites-mondou_CA-master/default/dwd03012f9/images/1043746-0.jpg?sw=280&sh=280&sm=fit"
+      },
+      {
+        "id": 4,
+        "name": {
+          "EN": "Vet Diet",
+          "FR": "Vet Diet"
+        },
+        "price": "84.99",
+        "image": "https://www.mondou.com/dw/image/v2/BGPN_PRD/on/demandware.static/-/Sites-mondou_CA-master/default/dw59ea0a12/images/1028728-0.jpg?sw=280&sh=280&sm=fit"
+      },
+      {
+        "id": 5,
+        "name": {
+          "EN": "Pinacle",
+          "FR": "Pinacle"
+        },
+        "price": "30.99",
+        "image": "https://www.mondou.com/dw/image/v2/BGPN_PRD/on/demandware.static/-/Sites-mondou_CA-master/default/dwb8897cdf/images/1043970-0.jpg?sw=280&sh=280&sm=fit"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "categoryName": {
+      "EN": "Other animals",
+      "FR": "Autres animaux"
+    },
+    "categoryItems": [
+      {
+        "id": 1,
+        "name": {
+          "EN": "Pet Smart",
+          "FR": "Pet Smart"
+        },
+        "price": "55.99",
+        "image": "https://s7d2.scene7.com/is/image/PetSmart/5237395?$sclp-prd-main_large$"
+      },
+      {
+        "id": 2,
+        "name": {
+          "EN": "Product 2",
+          "FR": "Produit 2"
+        },
+        "price": "70.99",
+        "image": "https://www.mondou.com/dw/image/v2/BGPN_PRD/on/demandware.static/-/Sites-mondou_CA-master/default/dwf1961d65/images/1043941-0.jpeg?sw=280&sh=280&sm=fit"
+      },
+      {
+        "id": 3,
+        "name": {
+          "EN": "Pro Plan",
+          "FR": "Pro Plan"
+        },
+        "price": "83.99",
+        "image": "https://www.mondou.com/dw/image/v2/BGPN_PRD/on/demandware.static/-/Sites-mondou_CA-master/default/dwd03012f9/images/1043746-0.jpg?sw=280&sh=280&sm=fit"
+      },
+      {
+        "id": 4,
+        "name": {
+          "EN": "Vet Diet",
+          "FR": "Vet Diet"
+        },
+        "price": "84.99",
+        "image": "https://www.mondou.com/dw/image/v2/BGPN_PRD/on/demandware.static/-/Sites-mondou_CA-master/default/dw59ea0a12/images/1028728-0.jpg?sw=280&sh=280&sm=fit"
+      },
+      {
+        "id": 5,
+        "name": {
+          "EN": "Pinacle",
+          "FR": "Pinacle"
+        },
+        "price": "30.99",
+        "image": "https://www.mondou.com/dw/image/v2/BGPN_PRD/on/demandware.static/-/Sites-mondou_CA-master/default/dwb8897cdf/images/1043970-0.jpg?sw=280&sh=280&sm=fit"
+      }
+    ]
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "image": "https://images.pexels.com/photos/406014/pexels-photo-406014.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "name": "Crepes"
+  },
+  {
+    "id": 2,
+    "image": "https://images.pexels.com/photos/3628100/pexels-photo-3628100.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "name": "Food 2"
+  },
+  {
+    "id": 3,
+    "image": "https://images.pexels.com/photos/1254140/pexels-photo-1254140.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "name": "Food 3"
+  },
+  {
+    "id": 4,
+    "image": "https://images.pexels.com/photos/1300355/pexels-photo-1300355.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "name": "Food 4"
+  },
+  {
+    "id": 5,
+    "image": "https://images.pexels.com/photos/979503/pexels-photo-979503.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "name": "Gateau"
+  }
+]
