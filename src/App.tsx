@@ -1,25 +1,43 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React, { useState, useMemo } from 'react';
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import { ThemeProvider, CssBaseline } from '@mui/material';
+
+import { MainPage } from './components/MainPage';
+import { Layout } from './components/Layout';
+import { lightTheme, darkTheme } from './theme/theme';
+// import { CatalogPage } from './pages/CatalogPage';
 
 function App() {
+  // ✅ Only one darkMode state
+  const [darkMode, setDarkMode] = useState(false);
+  const [language, setLanguage] = useState<'en' | 'fr'>('en');
+
+  const toggleDarkMode = () => setDarkMode((prev) => !prev);
+  const toggleLanguage = () =>
+    setLanguage((prev) => (prev === 'en' ? 'fr' : 'en'));
+
+  // You could memoize the theme if you like:
+  const theme = useMemo(
+    () => (darkMode ? darkTheme : lightTheme),
+    [darkMode]
+  );
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
+    <ThemeProvider theme={theme}>
+      <CssBaseline />
+      <Router>
+        <Layout
+          darkMode={darkMode}
+          toggleDarkMode={toggleDarkMode}
+          toggleLanguage={toggleLanguage}
         >
-          Learn React
-        </a>
-      </header>
-    </div>
+          <Routes>
+            <Route path="/" element={<MainPage />} />
+            {/* <Route path="/catalog" element={<CatalogPage />} /> */}
+          </Routes>
+        </Layout>
+      </Router>
+    </ThemeProvider>
   );
 }
 
