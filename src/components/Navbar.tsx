@@ -1,9 +1,13 @@
+// src/components/Navbar.tsx
 import React from 'react';
-import {
-  AppBar, Toolbar, Typography, Switch, IconButton, Box
-} from '@mui/material';
-import Brightness4Icon from '@mui/icons-material/Brightness4';
+import AppBar from '@mui/material/AppBar';
+import Toolbar from '@mui/material/Toolbar';
+import Typography from '@mui/material/Typography';
+import IconButton from '@mui/material/IconButton';
+import Switch from '@mui/material/Switch';
+import { useTheme } from '@mui/material/styles';
 import TranslateIcon from '@mui/icons-material/Translate';
+import Brightness4Icon from '@mui/icons-material/Brightness4';
 
 type Props = {
   darkMode: boolean;
@@ -12,22 +16,24 @@ type Props = {
 };
 
 export const Navbar: React.FC<Props> = ({ darkMode, toggleDarkMode, toggleLanguage }) => {
-  return (
-    <AppBar position="fixed" elevation={4}>
+  const theme = useTheme();
 
-      <Toolbar>
-        <Typography variant="h6" sx={{ flexGrow: 1 }}>
+  return (
+    <AppBar>
+      <Toolbar sx={{ justifyContent: 'space-between' }}>
+        <Typography variant="h6" color="inherit">
           Bibliopolis
         </Typography>
 
-        <IconButton onClick={toggleLanguage} color="inherit">
-          <TranslateIcon />
-        </IconButton>
-
-        <Box display="flex" alignItems="center">
-          <Brightness4Icon />
+        <div>
+          <IconButton color="inherit" onClick={toggleLanguage}>
+            <TranslateIcon />
+          </IconButton>
+          <IconButton color="inherit" onClick={toggleDarkMode}>
+            <Brightness4Icon />
+          </IconButton>
           <Switch checked={darkMode} onChange={toggleDarkMode} />
-        </Box>
+        </div>
       </Toolbar>
     </AppBar>
   );
