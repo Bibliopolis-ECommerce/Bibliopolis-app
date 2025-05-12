@@ -21,11 +21,7 @@ export const Layout: React.FC<Props> = ({
   toggleLanguage,
 }) => {
   const theme = useTheme();
-  const headerHeight =
-    typeof theme.mixins.toolbar.minHeight === 'number'
-      ? theme.mixins.toolbar.minHeight
-      : parseInt(theme.mixins.toolbar.minHeight as string, 10) || 64;
-  const footerHeight = 64;
+  const barHeight: any  = theme.mixins.toolbar.minHeight 
 
   return (
     <>
@@ -38,13 +34,13 @@ export const Layout: React.FC<Props> = ({
       {/* pushes main below AppBar */}
       <Toolbar />
 
-      <Box
+         <Box
         component="main"
         sx={{
-          /* NO pt here! Toolbar gives the top offset */
-          pb: `${footerHeight}px`,                                  // keep footer gap
-          minHeight: `calc(100vh - ${headerHeight + footerHeight}px)`,
-          overflowY: 'auto',                                         // scrollable content
+          // no need for pt: barHeight—Toolbar already did it
+          pb: `${barHeight}px`, // push up above footer
+          minHeight: `calc(100vh - ${barHeight * 2}px)`, // header + footer
+          overflowY: 'auto',
         }}
       >
         <Container maxWidth="lg">{children}</Container>
